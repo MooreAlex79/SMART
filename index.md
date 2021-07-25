@@ -6,16 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Where are we headed
 
-Smartchain is a blockchain that is made to last
+Smartchain is a blockchain that is made to last. what you are seeing is the beggining steps of my site for what will eventually be my blockchain
 
 ## Whats to come
 - wallet incorporation
 - ability to send and recieve crypto
 - integration of apis
-
-<form action="/html/tags/html_form_tag_action.cfm" method="post">
-<textarea name="comments" id="comments" style="width:96%;height:90px;background-color:gold;color:olive;border:none;padding:2%;font:22px/30px sans-serif;">
-Need background colors on your text box?
-</textarea>
-<input type="submit" value="Submit" style="background-color:yellowgreen;color:white;padding:5px;font-size:18px;border:none;padding:8px;">
-</form>
+- updated site and more professional interface
